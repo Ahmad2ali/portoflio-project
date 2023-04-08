@@ -1,0 +1,84 @@
+.container{
+    display: flex;
+    background-color:bisque;
+    color:black;
+    justify-content: space-between;
+    padding: 10px;
+    border: 2px black solid ;
+    align-items: center;
+
+}
+.links{
+    display: flex;   
+}
+
+a{
+    text-decoration: none;
+}
+a div {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0 35px;
+    justify-content: space-around;
+    color: black;
+}
+
+.name{
+    font-size:xx-large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+    position: relative;
+}
+
+.A{
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    display: flex;
+    flex-direction: column;
+    }
+
+    .B{
+        color: white;
+        font-size: x-large;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 10px;
+    }
+    .C{
+        color: white;
+        font-size:30px;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 10px;
+    }
+    .E{
+        color: white;
+        font-size: xxx-large;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 10px;
+    }
+
+    .btn button{
+        color: white;
+        font-size: x-large;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 15px;
+        border: 2px solid white;
+        border-radius: 2px;
+        background-color: black;
+    }
+    
+
+
+
+
+
+
+
+
